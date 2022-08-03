@@ -1,0 +1,135 @@
+.OvWraper{
+       justify-content: center;
+    
+    
+}
+.ovHead{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: auto;
+  background-color: #F5F7FB;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.ovHeadLeft{
+  width: 115px;
+height: 36px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 28px/40px Source Sans Pro;
+letter-spacing: 0px;
+color: #43425D;
+opacity: 1;
+
+
+}
+.ovHeadRight{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 160px;
+height: 48px;
+/* UI Properties */
+background: #6763E3 0% 0% no-repeat padding-box;
+border-radius: 6px;
+opacity: 1;
+padding-left: 10px;
+padding-right: 10px;
+}
+.afspan{
+  width: 71px;
+height: 20px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 16px/25px Source Sans Pro;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+font-size: 24px;
+
+  
+}
+.addfundicon{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #6763E3;
+
+}
+
+.overviewWrap{
+    display: flex;
+    background: #F5F7FB;
+    padding: 20px;
+    justify-content: center;
+}
+.ovLeftTop{
+    display: flex;
+}
+  
+  .item1 {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    width: 490px;
+height: 443px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+margin-right: 20px;
+margin-left: 10px;
+
+  }
+  .item2{
+    width: 490px;
+height: 443px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+margin-left: 15px;
+ }
+  .item3{
+    grid-column-start: 1;
+  grid-column-end: 3;
+  width: 1019px;
+  height: 488px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+margin-left: 10px;
+margin-top: 30px;
+align-content: center;
+}
+  .item4 {
+    display: flex;
+    justify-content: center;
+    width: 490px;
+height: 588px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+margin-right: 15px;
+margin-bottom: 10px;
+}
+.item5{
+    width: 490px;
+height: 343px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+margin-right: 15px;
+margin-top: 30px;
+align-content:center ;
+}
+.ovRight{
+  margin-left: 30px;
+}
+  
+  

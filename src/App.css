@@ -1,0 +1,9 @@
+ .appWraper{
+    display: flex;
+    scroll-behavior: smooth;
+} 
+ .others{
+    /* width: 1400px;
+height: 1203px; */
+background: #F5F7FB
+} 
